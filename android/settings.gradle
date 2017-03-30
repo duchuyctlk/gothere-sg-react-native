@@ -1,0 +1,3 @@
+rootProject.name = 'GothereSgReactNative'
+
+include ':app'
