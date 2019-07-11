@@ -1,3 +1,6 @@
 rootProject.name = 'GothereSgReactNative'
 
 include ':app'
+
+include ':RNAutoCompleteTextView'
+project(':RNAutoCompleteTextView').projectDir = new File(settingsDir, '../node_modules/RNAutoCompleteTextView')

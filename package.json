@@ -7,6 +7,7 @@
 		"test": "jest"
 	},
 	"dependencies": {
+		"RNAutoCompleteTextView": "git+https://github.com/duchuyctlk/rn-auto-complete-text-view.git",
 		"react": "~15.4.1",
 		"react-native": "0.42.3"
 	},

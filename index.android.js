@@ -14,6 +14,7 @@ import {
   Button,
   View
 } from 'react-native';
+import RNAutoCompleteTextView from 'RNAutoCompleteTextView'
 
 const onSubmitButtonPress = () => {};
 
