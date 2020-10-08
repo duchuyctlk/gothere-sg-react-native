@@ -8,7 +8,7 @@
 	},
 	"dependencies": {
 		"react": "~15.4.1",
-		"react-native": "^0.62.1"
+		"react-native": "^0.63.3"
 	},
 	"devDependencies": {
 		"babel-jest": "^24.8.0",
@@ -19,7 +19,7 @@
 	"jest": {
 		"preset": "react-native"
 	},
-  "resolutions": {
-    "**/logkitty": "0.7.1"
-  }
+	"resolutions": {
+		"**/logkitty": "0.7.1"
+	}
 }
